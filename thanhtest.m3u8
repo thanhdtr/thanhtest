@@ -1,0 +1,247 @@
+#EXTM3U
+#EXTINF:0,VTV1 HD
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1832182777?profile=pass
+#EXTINF:0,VTV2 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/155786089?profile=pass
+#EXTINF:0,VTV3 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1670319050?profile=pass
+#EXTINF:0,VTV4 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1808263040?profile=pass
+#EXTINF:0,VTV5 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/990145644?profile=pass
+#EXTINF:0,VTV Cần Thơ (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1556533701?profile=pass
+#EXTINF:0,VTV7 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1241070663?profile=pass
+#EXTINF:0,VTV8 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/171379530?profile=pass
+#EXTINF:0,VTV9 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/163971978?profile=pass
+#EXTINF:0,HTV Keys (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/667471725?profile=pass
+#EXTINF:0,HTV Thể Thao (HD 7.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1369034190?profile=pass
+#EXTINF:0,HTV1 (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/231585826?profile=pass
+#EXTINF:0,HTV2 Vie Channel (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/499293270?profile=pass
+#EXTINF:0,HTV3 (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2048080631?profile=pass
+#EXTINF:0,HTV7 HD (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1650267419?profile=pass
+#EXTINF:0,HTV9 HD (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1143902629?profile=pass
+#EXTINF:0,HTVC Ca Nhạc (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/551553344?profile=pass
+#EXTINF:0,HTVC Du Lịch và Cuộc Sống (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1764384495?profile=pass
+#EXTINF:0,HTVC Gia Đình (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/279245486?profile=pass
+#EXTINF:0,HTVC Phim (HD 4.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1196394849?profile=pass
+#EXTINF:0,HTVC Phim (HD 4.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1741236720?profile=pass
+#EXTINF:0,HTVC Phụ Nữ (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/815512255?profile=pass
+#EXTINF:0,HTVC Thuần Việt (HD 4Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/972994904?profile=pass
+#EXTINF:0,HTVC+ (HD 4.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1186353661?profile=pass
+#EXTINF:0,ON BiBi (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/130480829?profile=pass
+#EXTINF:0,ON Cine (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1193740171?profile=pass
+#EXTINF:0,ON EChannel (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1864612686?profile=pass
+#EXTINF:0,ON Info TV (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2086500113?profile=pass
+#EXTINF:0,ON Movies (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1970279973?profile=pass
+#EXTINF:0,ON Music (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/607750101?profile=pass
+#EXTINF:0,ON O2TV (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1907962473?profile=pass
+#EXTINF:0,ON Phim Việt (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1249889154?profile=pass
+#EXTINF:0,ON Sports HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/627753454?profile=pass
+#EXTINF:0,ON Style TV (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2026444612?profile=pass
+#EXTINF:0,ON Trending TV (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1727680053?profile=pass
+#EXTINF:0,ON VFamily (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1512485609?profile=pass
+#EXTINF:0,ON Vie Dramas (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/509849778?profile=pass
+#EXTINF:0,ON Vie Giải Trí (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2026509596?profile=pass
+#EXTINF:0,THVL1 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1165384837?profile=pass
+#EXTINF:0,THVL3 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2140812959?profile=pass
+#EXTINF:0,THVL4 HD _ TH Vĩnh Long (HD 7Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1008950817?profile=pass
+#EXTINF:0,VNEWS (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1770227985?profile=pass
+#EXTINF:0,VTC1 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/985926395?profile=pass
+#EXTINF:0,VTC10 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/116597062?profile=pass
+#EXTINF:0,VTC14 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1501619889?profile=pass
+#EXTINF:0,VTC16 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1674541995?profile=pass
+#EXTINF:0,VTC3 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1718518845?profile=pass
+#EXTINF:0,VTC4 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/231919013?profile=pass
+#EXTINF:0,VTC5 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1405816277?profile=pass
+#EXTINF:0,VTC6 HD (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/452286437?profile=pass
+#EXTINF:0,VTC7 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/447281665?profile=pass
+#EXTINF:0,VTC9 HD (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1099879043?profile=pass
+#EXTINF:0,Animal Planet (HD 10Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1348889966?profile=pass
+#EXTINF:0,ANTV
+#EXTVLCOPT:network-caching=1000
+http://hothanhdam:thanhdam1010@192.168.11.10:9981/stream/channelid/459843945?profile=pass
+#EXTINF:0,Asian Food Network (HD 6.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/635739902?profile=pass
+#EXTINF:0,AXN (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1319789158?profile=pass
+#EXTINF:0,BBC CBeeBies (HD 9Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/824279743?profile=pass
+#EXTINF:0,BBC Earth (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/838516899?profile=pass
+#EXTINF:0,BBC Lifestyle (HD 9Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1628217646?profile=pass
+#EXTINF:0,BBC News (HD 9Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1707523730?profile=pass
+#EXTINF:0,Bloomberg (HD 15Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/144121157?profile=pass
+#EXTINF:0,Box Hits (HD 5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/241866311?profile=pass
+#EXTINF:0,Cartoon Network (HD 10Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1052202980?profile=pass
+#EXTINF:0,Cinema World (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/855460883?profile=pass
+#EXTINF:0,Cinemax (HD 9Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1426505434?profile=pass
+#EXTINF:0,CNN (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/218019863?profile=pass
+#EXTINF:0,Da Vinci (HD 7.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1287847166?profile=pass
+#EXTINF:0,Discovery Asia (HD 9.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/720375231?profile=pass
+#EXTINF:0,Discovery Channel (HD 10Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1678762069?profile=pass
+#EXTINF:0,Dreamworks (HD 15Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1234212147?profile=pass
+#EXTINF:0,DW (English) (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/819074875?profile=pass
+#EXTINF:0,Fashion TV (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2144137867?profile=pass
+#EXTINF:0,HBO (HD 11Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/747036214?profile=pass
+#EXTINF:0,Nhân Dân TV (HD 7Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1372945641?profile=pass
+#EXTINF:0,QPVN
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1025195021?profile=pass
+#EXTINF:0,QPVN (HD 6Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/575988643?profile=pass
+#EXTINF:0,Quốc Hội HD (HD 4Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1936617620?profile=pass
+#EXTINF:0,Quốc Hội HD (HD 4Mbps)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/2121439390?profile=pass
+#EXTINF:0,K+ Action (DRM)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
+#EXTINF:0,K+ Cine (DRM)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
+#EXTINF:0,K+ Sport 1 (DRM)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
+#EXTINF:0,K+ Sport 2 (DRM)
+#EXTVLCOPT:network-caching=1000
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
